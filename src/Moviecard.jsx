@@ -49,7 +49,7 @@ function Moviecard({ movie, isSelected, onClick, onClose }) {
                 className="trailer-btn"
                 onClick={() => window.open(movie.link, "_blank")}
               >
-                ▶ Watch Trailer
+                ▶ Watch Trailer Now
               </button>
             )}
 
